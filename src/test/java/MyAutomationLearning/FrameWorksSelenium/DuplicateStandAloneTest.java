@@ -13,7 +13,7 @@ public class DuplicateStandAloneTest extends BaseTest{
 	@Test(groups= {"reference"})
 	public void submitOrder() throws IOException {
 		
-		
+		//Added comments here just to test the Git and Github 
 		String productname= "ZARA COAT 3";
 
 //		WebDriverManager.chromedriver().setup();
